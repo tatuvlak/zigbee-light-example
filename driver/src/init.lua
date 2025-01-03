@@ -96,15 +96,6 @@ local device_init = function(self, device)
     device:set_ias_zone_config_method(ias_zone_config_method)
   end
 
-  ------------------------------------------------------------------------------------------------------------------------------
-  -- [Code Lab] Create a SmartThings Edge Driver for an IoT bulb
-  --   * device: philips-hue white and color bulb (Model: 9290013678)
-  --   * Initial color of bulb is white
-  --   * Place code block below to change the color of the bulb periodically
-  ------------------------------------------------------------------------------------------------------------------------------
-
-
-
 end
 
 --[[
