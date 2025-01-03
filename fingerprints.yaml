@@ -1,0 +1,11 @@
+zigbeeManufacturer:
+
+  - id: "Bartek/light"
+
+    deviceLabel: Light switch
+
+    manufacturer: Bartek
+
+    model: light
+
+    deviceProfileName: light

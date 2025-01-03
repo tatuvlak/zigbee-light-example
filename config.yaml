@@ -1,0 +1,7 @@
+name: 'Zigbee Light'
+
+packageKey: 'zigbee-light'
+
+permissions:
+
+  zigbee: {}
